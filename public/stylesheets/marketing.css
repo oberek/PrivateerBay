@@ -183,11 +183,14 @@ a.pure-button-primary {
 /* This is the subheading that appears on the blue section */
 .splash-subhead {
     color: #ffffff;
-    letter-spacing: 0.05em;
     opacity: 0.8;
-    text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
-    10px 20px 5px rgba(0,0,0,0.05),
-    -10px 20px 5px rgba(0,0,0,0.05);
+    /*font-weight: bold;*/
+    font-size: 20px;
+    letter-spacing: 0.05em;
+
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+    0px 8px 13px rgba(0,0,0,0.1),
+    0px 18px 23px rgba(0,0,0,0.1);
 }
 
 /*
